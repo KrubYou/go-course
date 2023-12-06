@@ -1,0 +1,12 @@
+﻿country,state,index,currency
+United States,New York,NYA,USD
+Japan,Tokyo,Nikkei 225,JPY
+Germany,Berlin,DAX,EUR
+United Kingdom,London,FTSE 100,GBP
+Australia,Sydney,S&P/ASX 200,AUD
+Canada,Toronto,S&P/TSX Composite,CAD
+Brazil,Sao Paulo,BOVESPA,BRL
+South Korea,Seoul,KOSPI,KRW
+India,Mumbai,Sensex,INR
+South Africa,Johannesburg,JSE Top 40,ZAR
+},,,
